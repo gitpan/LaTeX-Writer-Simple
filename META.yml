@@ -1,0 +1,14 @@
+--- #YAML:1.0
+name:                LaTeX-Writer-Simple
+version:             0.01
+abstract:            A module to help writing LaTeX file.
+license:             ~
+author:              
+    - Alberto Simoes <ambs@cpan.org>
+generated_by:        ExtUtils::MakeMaker version 6.43_01
+distribution_type:   module
+requires:     
+    Test::More:                    0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3

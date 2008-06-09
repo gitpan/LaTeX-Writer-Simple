@@ -1,0 +1,13 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/LaTeX/Writer/Simple.pm
+t/00-load.t
+t/pod-coverage.t
+t/pod.t
+t/01-basics.t
+t/02-document.t
+t/03-sections.t
+t/04-formatting.t
+META.yml                                 Module meta-data (added by MakeMaker)
